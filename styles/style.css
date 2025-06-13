@@ -25,7 +25,7 @@
   font-size: 18px;
   font-weight: 400;
   text-underline-offset: 4px;
-  text-decoration: underline;  
+  text-decoration: underline;
 }
 
 .header__links-list-item_no-bullit {
@@ -34,7 +34,7 @@
 }
 
 .header__link {
-  text-decoration: none;  
+  text-decoration: none;
 }
 
 .header__logo {
@@ -206,7 +206,7 @@
   font-weight: 700;
   line-height: 120%;
   text-decoration-line: underline;
-  text-transform: uppercase;  
+  text-transform: uppercase;
 }
 
 .card__text {
