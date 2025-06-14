@@ -300,13 +300,12 @@
 }
 
 .footer_address {
-  font-style: 18px;
+  font-style: normal;
   padding-left: 0px;
   line-height: 24.3px;
   letter-spacing: 0.18px;
   font-family: "Raleway", sans-serif;
   list-style-type: none;
-  font-style: normal;
 }
 
 .footer_menu {
